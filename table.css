@@ -1,0 +1,14 @@
+img{
+    height: 400px;
+    width: 1100px;
+    opacity: 0.9;
+}
+span{
+    background-color: aquamarine;
+}
+.table{
+    background-color: rgb(237, 237, 141);
+}
+#heading{
+    background-color: cadetblue;
+}
