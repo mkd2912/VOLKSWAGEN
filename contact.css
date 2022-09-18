@@ -6,7 +6,7 @@ img{
 }
 span{
     background-color: aquamarine;
-    text-align: center;
+    font-family:Arial;
 }
 #message{
     float: left;
@@ -16,3 +16,30 @@ span{
     resize: none;
     border: 1px solid black;
 }
+.col {
+    width: 50%;
+    padding: 20px;
+    margin: 9px 0;
+    opacity: 1;
+    display: inline-block;
+     /* remove underline from anchors */
+  }
+  .fb {
+    background-color: #3B5998;
+    color: white;
+  }
+  .twitter {
+    background-color: #55ACEE;
+    color: white;
+  }
+  .google {
+    background-color: #dd4b39;
+    color: white;
+  }
+  span.or{
+    font-family:sans-serif;
+    background-color:white;
+    color: black;
+    font-weight: 800;
+    padding-left: 3%;
+  }
