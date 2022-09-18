@@ -9,9 +9,17 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+.row::after {
+    content: "";
+    clear:both;
+    display:inline;
+  }
+
 
 .brand-item {
-    padding: 40px;
+    padding: 60px;
+    float:left;
+    width: 15.33%;
 }
 
 #brands img {
